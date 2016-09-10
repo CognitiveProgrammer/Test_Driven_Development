@@ -1,11 +1,11 @@
-# Module - 3 : A Sample TDD Code in C++ language
+# Module - 3 : A Sample Unit Test Code in C++ language
 
 ## 1.1 Using Google Test Framework
 *For demonstration purpose, we'll will be using Google Test Framework. More details about Google Test Framework can be found HERE(https://github.com/google/googletest)*
 
 ## 1.2 4 Code Creation
 
-*Before we can test something, we need to have a code for testing. Here we're writing a simple class which takes an input parameter while being constructed and then the test verifies that the class contains the same data all during its lifetime*
+*Lets consider a reference code for which we want to write test code. Here we're writing a simple class which takes an input parameter while being constructed and then the test verifies that the class contains the same data all during its lifetime*
 
 ```
 class MyTest {

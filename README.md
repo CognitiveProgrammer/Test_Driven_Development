@@ -12,6 +12,6 @@
 
 *This module will explain how AAA (Arrange-Act-Assert) is used in writing unit tests and what will be its impact on TDD*
 
-## [Module -3 : Sample TDD example in C++](https://github.com/9lean/Test_Driven_Development/tree/master/Sample%20TDD)
+## [Module -3 : Sample Unit Testing example in C++](https://github.com/9lean/Test_Driven_Development/tree/master/Sample%20TDD)
 
 *This module will explain the usage of TDD using C++ Google Test Framework.
