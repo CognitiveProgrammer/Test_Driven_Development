@@ -22,3 +22,7 @@
 ## 2.4 Assert
 
 *Once the unit tests are done, the* __Assert__ *is used for determining the whether the* __Act__ *produced intended results or not. Its the Assert phase that determines whether the test was successful or not*
+
+## 2.5 Conclusion
+
+*The idea of Arrange-Act-Assert act assert is independent of testing framework and is more of an arrangement than any coding practice*
