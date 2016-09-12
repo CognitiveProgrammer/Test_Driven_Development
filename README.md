@@ -1,4 +1,4 @@
-# Test Driven Development (TDD) in C++
+# A practical guide to Test Driven Development (TDD)
 *Test Driven Development is a way of writing quality code during Software Development. Its one of the well known and widely adopted practice of eXtreme Programming(XP). Its used on the preamble of Test First approach which ultimately increase the quality of the output code*
 
 ## TDD and C++
