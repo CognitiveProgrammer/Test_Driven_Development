@@ -14,4 +14,8 @@
 
 ## [Module -3 : Sample Unit Testing example in C++](https://github.com/9lean/Test_Driven_Development/tree/master/Sample%20TDD)
 
-*This module will explain the usage of TDD using C++ Google Test Framework.
+*This module will explain the usage of TDD using C++ Google Test Framework.*
+
+## [Module -4 : A Sample implementation of TDD](https://github.com/9lean/Test_Driven_Development/tree/master/Sample%20Unit%20Testing%20Code)
+
+*This module will demonstrate writing of TDD code in series of steps (9 to be precise)*
