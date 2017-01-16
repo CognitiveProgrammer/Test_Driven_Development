@@ -1,4 +1,4 @@
-# Module - 3 : A Sample Unit Test Code in C++ language
+# Module - 2 : A Sample Unit Test Code in C++ language
 
 ## 1.1 Using Google Test Framework
 *For demonstration purpose, we'll will be using Google Test Framework. More details about Google Test Framework can be found HERE(https://github.com/google/googletest)*
