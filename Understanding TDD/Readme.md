@@ -23,6 +23,6 @@
 
 ### 1.3 Who writes Tests in TDD and why only Unit Tests?
 
-*TDD is a development only process, where tests are mostly written by developers who are going to write the code too. TDD forces developers to think from usability perspective of the code and allows them to arrange their code accordingly. That's also the reason why TDD is sometimes also called Test Driven Design*
+*TDD is a development only process, where tests must only be written by developers who are going to write the code too. TDD forces developers to think from usability perspective of the code and allows them to arrange their code accordingly. That's also the reason why TDD is sometimes also called Test Driven Design*
 
 *TDD is not restricted to Unit Tests but its the most widely used arena. TDD can also be used for Integration functionality and System level Verification especially for UI related work, where exact nature of tests are available e.g Wireframe*
