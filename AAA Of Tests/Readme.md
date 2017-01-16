@@ -1,13 +1,13 @@
-# Module -2 : The AAA(Arrange-Act-Assert) of Unit Tests
+# Module - 1 : The AAA(Arrange-Act-Assert) of Unit Tests
 
 ## 2.1 Defining Unit Tests
 
 *A piece of non production code written for testing a production unit of work. A unit test is* __Independent__ *in nature and should be able to run in isolation*
 
 *A unit tests is divided into 3 parts which is collectively called as Arrange-Act-Assert*
-***1. Arrange***
-***2. Act***
-***3. Assert***
+***0. Arrange***
+***1. Act***
+***2. Assert***
 
 ## 2.2 Arrange
 
