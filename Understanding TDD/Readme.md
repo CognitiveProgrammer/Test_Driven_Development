@@ -11,15 +11,15 @@
 
 *Doing TDD consists of 4 Steps*
 
-***Step -1 : Write enough test code (Including compile time and run time failures)***
+***Step - 0 : Write enough test code (Including compile time and run time failures)***
 
 *The word* ***enough*** *is subjective in mature, it depends upon individual and matures  with the passage of time. However its not advisable to write too much failing test code*
 
-***Step -2 : Write Production code to pass those failing Tests***
+***Step - 1 : Write Production code to pass those failing Tests***
 
-***Step -3 : Re-Factor production code and verify the same with existing Tests***
+***Step - 2 : Re-Factor production code and verify the same with existing Tests***
 
-***Step -4 : Go to Step -1***
+***Step - 3 : Go to Step -1***
 
 ### 1.3 Who writes Tests in TDD and why only Unit Tests?
 
